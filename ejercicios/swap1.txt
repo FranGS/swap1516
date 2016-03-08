@@ -1,0 +1,18 @@
+Buscar información sobre el tipo de contenido para el que los siguientes
+software de servidor web es más adecuado (o más eficiente, o se usa más actualmente...): 
+apache, nginx, cherooke, lighttp, node.js, tomcat.
+
+
+-Apache: usado principalmente para enviar páginas web estáticas y dinámicas, para tareas
+donde el contenido debe ser puesto de forma segura y confiable.
+Es probablemente el servidor mas utilizado, lider con el mayor número de instalaciones
+a nivel mundial.
+Tiene algunas deficiencias como por ejemplo el rendimiento, ya que el consumo de recursos
+es muy elevado y en ocasiones puede hacer que las webs funcionen de “forma lenta”, aspecto
+muy negativo en el Internet de hoy en día.
+
+-Nginx: especialmente optimizado para dar máximo en páginas web estáticas. En cuando 
+páginas web dinámicas, este servidor no las soporta de forma nativa y para brindar su 
+servicio deberá hacer uso de herramientas externas para ello.
+
+-. 
