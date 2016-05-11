@@ -1,0 +1,11 @@
+EJERCICIOS TEMA 2
+
+*Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.
+
+-Microsoft Operations Framework (MOF) para conseguir alta disponibilidad en productos y tecnologías de Microsoft.
+
+-IBM High Availability Cluster Multiprocessing está orientado a correr en clusters con SO AIX Unix e IBM System p (Sistemas Operativos creados por IBM) y conseguir un cluster de multiprocesamiento de alta disponibilidad.
+
+-Linux-HA es un framework para clusters de alta disponibilidad que usen Linux.
+
+
