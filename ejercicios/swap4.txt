@@ -1,0 +1,6 @@
+Ejercicios TEMA 4
+
+T4.1-Buscar información sobre cuánto costaría en la actualidad un mainframe. Comparar precio y potencia entre esa máquina y una granja web de unas prestaciones similares.
+
+IBM ha presentado su nuevo servidor mainframe z13, que afirma es fruto de una inversión de más de 1.000 millones de dólares, que ha tardado cinco años en desarrollar junto con 60 clientes de tos el mundo e incorpora hasta 500 nuevas patentes.
+

@@ -1,0 +1,7 @@
+Ejercicios TEMA 5
+
+Buscar información sobre características, disponibilidad para diversos SO, etc de herramientas para monitorizar las prestaciones de un servidor. Para empezar, podemos comenzar utilizando las clásicas de Linux: top, vmstat, netstat.
+
+Top -> vista dinámica de un sistema en funcionamiento.
+Vmstat -> información sobre procesos, memoria, discos, E/S y actividad de la CPU.
+Nestat -> conexiones de red, tablas de enrutamiento, máscaras y estadísticas de las interfaces.

@@ -1,0 +1,9 @@
+Ejercicios TEMA 7
+
+T7.1-¿Qué tamaño de unidad de RAID se obtendrá al configurar un RAID 0 a partir de dos discos de 100GB y 100GB?
+
+Será de 200GB ya que se reparte la información entre todo el espacio disponible.
+
+¿Qué tamaño de unidad RAID se obtendrá al configurar un RAID 0 a partir de 3 discos de 200GB cada uno?
+
+3*200GB = 600gb

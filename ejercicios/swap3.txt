@@ -1,0 +1,6 @@
+Ejercicios TEMA 3
+
+T3.2-Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes.
+
+Linux -> iptables, nos permite incluir múltiples reglas para dejar pasar o bloquear paquetes.
+Windows -> se puede agregar un filtrado de paquetes mediante la herramienta de Enrutamiento y acceso remoto.
