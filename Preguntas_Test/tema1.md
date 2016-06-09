@@ -1,4 +1,4 @@
-**En cualquier sitio web hay que controlar los posibles problemas de **:  
+*En cualquier sitio web hay que controlar los posibles problemas de*:  
 a) La disponibilidad.  
 b) Arquitectura del sistema. 
 c) La carga del sistema.  
